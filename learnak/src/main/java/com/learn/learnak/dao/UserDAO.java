@@ -19,7 +19,7 @@ public class UserDAO {
 	
 	private static final String url="jdbc:mysql://localhost:3306/learn";
 	private static final String username="root";
-	private static final String password = "Abhishek@Root06";
+	private static final String password = "";
 	
 	public PreparedStatement pt;
 	
